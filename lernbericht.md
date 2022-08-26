@@ -10,8 +10,11 @@ Für dieses Projekt konnten wir zwischen mehreren Themen wählen. Wir haben uns 
 Ich kann...
 
 Z1:...in Java mit SQLITE arbeiten.
+
 Z2:...die Datenbanksprache SQL in Java anwenden.
+
 Z3:...mithilfe des Internets eine E-Mail mit Gmail absenden.
+
 Z4:...das GUI in diesem Projekt miteinimplementieren.
 
 ## Beschreibung
