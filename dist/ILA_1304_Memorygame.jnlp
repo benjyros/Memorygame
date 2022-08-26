@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ILA_1304_Memorygame.jnlp">
+  <information>
+    <title>ILA_1304_Memorygame</title>
+    <vendor>benny</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="ILA_1304_Memorygame.jar" size="2242107" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="ILA_1304_Memorygame" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="ila_1304_memorygame.Main"  name="ILA_1304_Memorygame" />
+  <update check="always"/>
+</jnlp>
