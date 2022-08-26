@@ -1,5 +1,5 @@
 # Lern-Bericht
-Mailnerver - Shayanthan Ravindran, Benjamin Peterhans
+Memorygame - Shayanthan Ravindran, Benjamin Peterhans
 
 ## Einleitung
 
