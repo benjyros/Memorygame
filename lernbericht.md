@@ -1,6 +1,3 @@
-# Memorygame
-A repository about our project "Memorygame".
-
 # Lern-Bericht
 Mailnerver - Shayanthan Ravindran, Benjamin Peterhans
 
